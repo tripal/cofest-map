@@ -1468,6 +1468,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"PokemonSmithy-32x-Tobalcr",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Copright 2025. TobalCR (https:\/\/www.deviantart.com\/tobalcr). Non-commercial use only."
+                }],
          "spacing":0,
          "tilecount":112,
          "tileheight":32,
@@ -1481,6 +1487,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"PixelArtTopDownWall-32x-Cainos",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Copyright 2025. Cainos (https:\/\/itch.io\/profile\/cainos). Some Rights Reserved."
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1494,6 +1506,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"LPCfloors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\"[LPC] Floors\" by bluecarrot16, Lanea Zimmerman (Sharm), William Thompson (William.Thompsonj), Hyptosis, SpiderDave, Cougarmint, Stephen Challener (Redshrike), Bonsaiheldin, Tyler Olsen (Roots), Jetrel, jestan, The Open Surge team (http:\/\/opensnc.sourceforge.net), Gaurav Munjal, Reemax, Silveira Neto, bleutailfly, Casper Nilsson, NaRNeRZz, Buch, keith karnage, Arthur Carvalho, Guilherme Vieira (n2liquid), Chris Hamons (maintainer). CC-BY-SA 4.0."
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -3853,6 +3871,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"PavedStonePath-32x-anarlaurendil",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Copyright 2025. Amras An\u00e1rion. Creative Commons Attribution-ShareAlike 3.0 License"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -3959,6 +3983,12 @@
          "imagewidth":1472,
          "margin":0,
          "name":"LaceysWallpaperFull",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Copyright (2025) Lacey-Anne Sanderson. CC BY-SA"
+                }],
          "spacing":0,
          "tilecount":920,
          "tileheight":32,
@@ -3972,6 +4002,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"MedievalPokemonAlienorBookcases-32x-anarlaurendil",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Copyright 2025. Amras An\u00e1rion. Creative Commons Attribution-ShareAlike 3.0 License"
+                }],
          "spacing":0,
          "tilecount":200,
          "tileheight":32,

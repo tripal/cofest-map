@@ -5,8 +5,66 @@ Assets distributed with a map are subject to different licenses.
 The license attributed to each tileset can be found or have to be added in the "tilesetCopyright" property of each tileset in the map.
 In addition, you have to add a section below with the specific license of the asset you want to use.
 
+# PokemonSmithy-32x-Tobalcr
 
-WORKADVENTURE SPECIFIC RESOURCES LICENSE
+See the following page on DeviantArt
+https://www.deviantart.com/tobalcr/art/POKEMON-BW-SMITHY-TILESET-FOR-POKEMON-1105673469
+
+Added a few extra variations. Specifically,
+- the dark wall with wood trim running up the side (6 tiles left hand side)
+- the wood baseboard with no wall above (3 tiles near bottom logo)
+
+Credits:
+- TobalCR (https://www.deviantart.com/tobalcr)
+
+License:
+- These tiles are for NON-COMERCIAL USE ONLY. You can edit them, put them in your fangames, and anything else like that.
+
+# PixelArtTopDownWall-32x-Cainos
+
+See the following itch.io
+https://cainos.itch.io/pixel-art-top-down-basic
+
+Made the stone color a bit cooler to match my asthetic better.
+Also combined some tiles from Struct into the Wall tileset.
+
+Credits:
+- Cainos (https://itch.io/profile/cainos)
+
+License:
+
+- This asset pack can be used in both free and commercial projects.
+- You can modify it to suit your own needs.
+- Credit is not needed but appreciated.
+- You may not redistribute it or resell it.
+
+# LPCfloors-32x-bluecarrot16
+
+See the following page on Open Game Art
+https://opengameart.org/content/lpc-floors
+
+No modifications made.
+
+Credits:
+"[LPC] Floors" by bluecarrot16, Lanea Zimmerman (Sharm), William Thompson (William.Thompsonj), Hyptosis, SpiderDave, Cougarmint, Stephen Challener (Redshrike), Bonsaiheldin, Tyler Olsen (Roots), Jetrel, jestan, The Open Surge team (http://opensnc.sourceforge.net), Gaurav Munjal, Reemax, Silveira Neto, bleutailfly, Casper Nilsson, NaRNeRZz, Buch, keith karnage, Arthur Carvalho, Guilherme Vieira (n2liquid), Chris Hamons (maintainer).
+
+License:
+- Creative Commons Attribution-ShareAlike 4.0 License
+
+# PavedStonePath-32x-anarlaurendil
+
+See the following page on DeviantArt
+https://www.deviantart.com/anarlaurendil/art/Paved-stone-path-Tileset-800379337
+
+Modified the stone color to be cooler in order to better match my asthetic.
+
+Credits:
+- Amras Anárion (https://www.deviantart.com/anarlaurendil)
+
+License:
+- Creative Commons Attribution-ShareAlike 3.0 License
+
+# WORKADVENTURE SPECIFIC RESOURCES LICENSE
 
 The User shall handle assets with the WorkAdventure specific resources license as follows:
 
